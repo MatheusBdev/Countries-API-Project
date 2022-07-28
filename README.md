@@ -19,11 +19,9 @@ ou
 
 yarn
 ```
-Como rodar o front-end:
+Como rodar
 
 ```
-Front-end
-
 yarn
 yarn start
 
