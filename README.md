@@ -19,11 +19,9 @@ ou
 
 yarn
 ```
-Como rodar o front-end:
+Como rodar
 
 ```
-Front-end
-
 yarn
 yarn start
 
@@ -48,4 +46,4 @@ Utilizado para inserir os emojis de bandeiras.
 <br>
 
 - [ReactLoaderSpinner](https://www.npmjs.com/package/react-loader-spinner)<br>
-Utilizado para colocar um spinner na tela de carregamento da aplicação.
+
