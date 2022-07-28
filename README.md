@@ -36,11 +36,14 @@ npm start
 - [ApolloClient](https://www.apollographql.com/docs/)<br>
 Utilizado para consumir a API do GraphQL. A escolha foi feita pela praticidade e pelo fácil acesso à informações.
 <br>
+
 - [React-Icons](https://react-icons.github.io/react-icons/)<br>
 Utilizado para inserir ícones na aplicação de maneira prática.
 <br>
+
 - [React-Country-Flag](https://www.npmjs.com/package/react-country-flag)<br>
 Utilizado para inserir os emojis de bandeiras.
 <br>
+
 - [React-Loader-Spinner](https://www.npmjs.com/package/react-loader-spinner)<br>
 Utilizado para colocar um spinner na tela de carregamento da aplicação.
